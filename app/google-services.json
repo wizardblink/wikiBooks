@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23725867092",
+    "firebase_url": "https://wikibooks-6b7a1.firebaseio.com",
+    "project_id": "wikibooks-6b7a1",
+    "storage_bucket": "wikibooks-6b7a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23725867092:android:2fc4e3e20627dc45ae2dc1",
+        "android_client_info": {
+          "package_name": "com.wizardblink.wikibooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23725867092-js2lcun0ciac41cpii67qvpdnqd62sd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wizardblink.wikibooks",
+            "certificate_hash": "82c7e0588e07604e9fa3538fa0abce291a840489"
+          }
+        },
+        {
+          "client_id": "23725867092-ffk3a424lio6ltotn1eufj8qn04one3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83EHQGF79Nb2dnbHZngsC6rUhTDi_nKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23725867092-ffk3a424lio6ltotn1eufj8qn04one3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
